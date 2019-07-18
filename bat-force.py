@@ -13,13 +13,13 @@ else:
     N = ''
     O = ''
 parser = OptionParser(F+'''
-	            Bat-Fourse Attack
+	            Bat-Force Attack
 
 	This tool built to penetration testing
-by useing brute-fourse attack on Word press sites
+by useing brute-Force attack on Word press sites
 
 to use the tool U should do that 
-bat-fourse.py -u http://www.exampel.com -p passwordlist.txt -a admin username
+bat-Force.py -u http://www.exampel.com -p passwordlist.txt -a admin username
 ''')
 print(O+'''              *         *      *         *
           ***          **********          ***
@@ -38,7 +38,7 @@ print(O+'''              *         *      *         *
        *****             *****              *****
           ***             ***              ***
             **             *              **
-              Welcome in Bat-Fourse Attack
+              Welcome in Bat-Force Attack
 
 ''')
 print(F+'''
