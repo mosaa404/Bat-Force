@@ -1,4 +1,4 @@
-# Bat-Fourse Attack
+# Bat-Force Attack
 
                   *         *      *         *
               ***          **********          ***
@@ -17,7 +17,7 @@
            *****             *****              *****
               ***             ***              ***
                 **             *              **
-                   Welcome in Bat-Fourse Attack
+                   Welcome in Bat-Force Attack
                    
                    
                    
@@ -26,4 +26,4 @@
        [ E-mail:am01003264893@gmail.com ]
        [ Facebook:https://www.facebook.com/Ahmed.R.Mosaa404 ]
        [ Github:https://github.com/mosaa404 ]
-This tool to attack the word press by Brut-Fourse Attack
+This tool to attack the word press by Brut-Force Attack
