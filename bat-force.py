@@ -54,7 +54,7 @@ parser.add_option('-u','--url',dest='url',help='Enter target url')
 parser.add_option('-p','--pass',dest='pwd',help='Enter the password list')
 parser.add_option('-a','--admin',dest='admin',help='Enter the username',default='admin')
 (options,args) = parser.parse_args()
-print(options.url)
+print('The target is --> '+options.url)
 if options.url[len(options.url)-1] == 'p' and options.url[0] == 'h':
   pass
 elif options.url[len(options.url)-1] == 'p' and options.url[0] != 'h':
