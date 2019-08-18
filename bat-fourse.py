@@ -8,10 +8,7 @@ if platform in ["linux","linux2"]:
     N = '\033[91m'
     O = '\033[93m'
 else:
-    W = ''
-    F = ''
-    N = ''
-    O = ''
+    W = F = N = O = ''
 parser = OptionParser(F+'''
 	            Bat-Force Attack
 
