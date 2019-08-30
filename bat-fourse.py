@@ -35,7 +35,6 @@ print(O+'''              *         *      *         *
           ***             ***              ***
             **             *              **
               Welcome in Bat-Force Attack
-
 ''')
 print(F+'''
 ######################################################
@@ -44,8 +43,7 @@ print(F+'''
 [ E-mail:am01003264893@gmail.com ]
 [ Facebook:https://www.facebook.com/Ahmed.R.Mosaa404 ]
 [ Github:https://github.com/mosaa404 ]
-#######################################################
-	''')
+#######################################################''')
 parser.add_option('-u','--url',dest='url',help='Enter target url')
 parser.add_option('-p','--pass',dest='pwd',help='Enter the password list')
 parser.add_option('-a','--admin',dest='admin',help='Enter the username',default='admin')
