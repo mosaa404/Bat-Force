@@ -16,8 +16,7 @@ parser = OptionParser(F+'''
 by useing brute-force attack on Word press sites
 
 to use the tool U should do that 
-bat-force.py -u http://www.exampel.com -p passwordlist.txt -a admin username
-''')
+bat-force.py -u http://www.exampel.com -p passwordlist.txt -a admin username''')
 print(O+'''              *         *      *         *
           ***          **********          ***
        *****           **********           *****
